@@ -1,0 +1,30 @@
+.card {
+  width: 400px;
+  margin: 50px;
+  padding: 30px;
+  background: #2e1a73;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.img_card {
+  width: 200px;
+}
+
+.box_text_text {
+  margin-top: 10px;
+}
+
+.card_btn {
+  cursor: pointer;
+  margin-top: 15px;
+  border-radius: 10px;
+  padding: 4px 10px;
+  background: #c6a9d9;
+  border: none;
+}
+
+.card_btn:hover {
+  background: #af4bf2;
+  color: #013a40;
+}
